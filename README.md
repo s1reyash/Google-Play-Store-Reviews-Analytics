@@ -1,4 +1,3 @@
-# Google-Play-Store-Reviews-Analytics
 # Play Store Data Analysis Project
 
 ## 📋 Overview
