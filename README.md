@@ -46,6 +46,4 @@ Contributions are welcome! Please feel free to fork the repository and submit a 
 🔗 Contact
 For any queries, reach out to:
 
-Name: Shreyash
-Email: shreyashsrc@gmail.com
-GitHub: s1reyash
+shreyashsrc@gmail.com
